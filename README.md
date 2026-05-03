@@ -185,24 +185,19 @@ OpenAI API     ██████████░░░  Proficient
 
 <div align="center">
 
-<!-- Stats card — hosted on anuraghazra's own infra, most reliable option -->
-<img height="170em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=satyapradip&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&include_all_commits=true&count_private=true" />
-<!-- Top languages card -->
-<img height="170em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=satyapradip&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&langs_count=6" />
+<!-- Stats + Languages side by side -->
+<img height="170em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=satyapradip&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&include_all_commits=true&count_private=true" />
+<img height="170em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=satyapradip&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0&langs_count=6" />
 
 <br/>
 
-<!-- Streak stats — git.io redirect is the most stable streak URL -->
-<img src="https://streak-stats.demolab.com/?user=satyapradip&hide_border=true&background=0d1117&stroke=1e293b&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=475569" />
+<!-- Streak — fully bright numbers -->
+<img src="https://streak-stats.demolab.com/?user=satyapradip&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=f97316&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b" />
 
 <br/>
 
-<!-- GitHub's own contribution snake — generated via GitHub Actions, fully native -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/satyapradip/satyapradip/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/satyapradip/satyapradip/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/satyapradip/satyapradip/output/github-contribution-grid-snake.svg" />
-</picture>
+<!-- Contribution graph — native GitHub activity heatmap, no setup needed -->
+<img src="https://ghchart.rshah.org/38bdf8/satyapradip" alt="Satyapradip's GitHub Contribution Chart" />
 
 </div>
 
@@ -213,7 +208,7 @@ OpenAI API     ██████████░░░  Proficient
 ## 🏆 Recognition
 
 ```
-Smart India Hackathon 2025    →  College-level participant
+Smart India Hackathon 2025    →  National-level participant
 NEXATHON 1.0                  →  Finalist
 Academic Standing             →  SGPA 9.29 / 10
 ```
