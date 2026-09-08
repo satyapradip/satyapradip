@@ -1,17 +1,18 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:111111,100:1a1a2e&height=180&section=header&text=Satyapradip%20Das&fontSize=54&fontColor=e2e8f0&fontAlignY=40&desc=Backend%20Engineer%20%E2%80%A2%20API%20Design%20%E2%80%A2%20System%20Thinker&descAlignY=62&descColor=64748b&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:111111,100:1a1a2e&height=170&section=header&text=Satyapradip%20Das&fontSize=50&fontColor=e2e8f0&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Backend%20%26%20API%20Design%20%E2%80%A2%20AI%20Integrations&descAlignY=60&descColor=64748b&animation=fadeIn" />
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=560&lines=Building+systems+that+scale+%F0%9F%94%A7;JWT+%7C+RBAC+%7C+MVC+%7C+REST+APIs;AI+integrations+with+structured+validation;Open-source+contributor+%F0%9F%8C%B1;Seeking+Software+Engineering+Internships" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=560&lines=Shipping+production-grade+MERN+apps;JWT+%7C+RBAC+%7C+REST+APIs+%7C+MVC;AI+pipelines+with+Gemini+%26+OpenAI;Open+to+Software+Engineering+Internships" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/satyapradip-das)
 [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/satyapradip)
+[![Portfolio](https://img.shields.io/badge/Portfolio-38bdf8?style=flat-square&logo=vercel&logoColor=white)](https://satyapradip-dev.vercel.app)
 [![Email](https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:satyapradip7602@gmail.com)
 [![Location](https://img.shields.io/badge/Kolkata,%20India-1e293b?style=flat-square&logo=googlemaps&logoColor=white)](#)
 
@@ -21,39 +22,39 @@
 
 ---
 
-## `$ whoami`
+## About Me
+
+Full-Stack Developer focused on the backend — secure auth layers, RESTful API design, and AI-integrated systems. Currently building **Panchayat**, a voice-first civic-tech platform, and previously interned as a **Full-Stack Developer at The Corporate Pot**, shipping MERN + Next.js features with JWT/RBAC and MVC architecture.
 
 ```typescript
 const satyapradip: Engineer = {
   university : "Brainware University — B.Tech CSE (AI & ML)",
-  gpa        : "9.29 / 10",
-  focus      : ["Backend Architecture", "API Design", "AI Integrations"],
-  principles : ["Clean Code", "System Reliability", "Real-world Trade-offs"],
+  sgpa       : "9.58 / 10",
+  focus      : ["Backend Architecture", "REST APIs", "AI Pipelines"],
   status     : "Open to Software Engineering Internships 🚀",
 };
 ```
-
-I build **backend-heavy full-stack systems** — secure auth layers, scalable REST APIs, and AI-integrated pipelines. My focus is always on architecture clarity, reliability, and code that holds up under real conditions.
 
 <br/>
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-**Core Engineering**
+**Languages & Backend**
 ```
-Python         ████████████░  Strong
-JavaScript     ████████████░  Strong  
-TypeScript     ██████████░░░  Proficient
-Node.js        ████████████░  Strong
-Express.js     ████████████░  Strong
-REST API Design ███████████░░  Strong
-JWT / RBAC     ██████████░░░  Proficient
+JavaScript (ES6+) · TypeScript · Python
+Node.js · Express.js · RESTful APIs
+JWT Authentication · RBAC · API Security
+```
+
+**Databases**
+```
+MongoDB · PostgreSQL
 ```
 
 </td>
@@ -61,27 +62,20 @@ JWT / RBAC     ██████████░░░  Proficient
 
 **Frontend**
 ```
-React.js       ██████████░░░  Proficient
-Next.js        █████████░░░░  Proficient
+React.js · Next.js · Redux · Tailwind CSS
 ```
 
-**Database**
+**AI / ML Integration**
 ```
-MongoDB        ████████████░  Strong
-Supabase       ████████░░░░░  Comfortable
-```
-
-**AI & Integrations**
-```
-Google Gemini  ████████████░  Strong
-OpenAI API     ██████████░░░  Proficient
+Gemini API · OpenAI API · Sarvam AI
+Prompt Engineering · AI Pipeline Design
 ```
 
 </td>
 </tr>
 </table>
 
-**Tools I work with daily**
+**Daily Tools**
 
 ![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white)
@@ -95,109 +89,46 @@ OpenAI API     ██████████░░░  Proficient
 
 ---
 
-## 🔨 Projects
+## Experience
 
-<details open>
-<summary><b>🧑‍💼 Employee Management System</b> — Multi-tenant backend with enterprise auth</summary>
-
-<br/>
-
-> `React` · `Node.js` · `Express.js` · `MongoDB` · `JWT` · `RBAC`
-
-**The challenge:** Build a system where multiple organizations can coexist securely on shared infrastructure.
-
-**What I built:**
-- JWT-based authentication with **Role-Based Access Control** for strict data isolation per tenant
-- REST API layer using **MVC architecture** with centralized request validation and error handling
-- Admin dashboard with task workflows, protected routes, and optimized MongoDB schemas
-- Security hardening: bcrypt hashing, input sanitization, route guards
-
-**[→ View on GitHub](https://github.com/satyapradip/Employee-Management-System)**
-
-</details>
-
----
-
-<details open>
-<summary><b>🩺 AI Health Assistant — Apna Doctor</b> — Resilient multi-model AI pipeline</summary>
-
-<br/>
-
-> `React` · `TypeScript` · `Supabase` · `Gemini API` · `OpenAI API`
-
-**The challenge:** Build an AI symptom checker that doesn't break when one model fails.
-
-**What I built:**
-- Real-time AI response generation with **JSON schema validation and fallback mechanisms**
-- **Supabase Row-Level Security (RLS)** for user-level data isolation
-- Fully type-safe data flow with TypeScript — no runtime surprises
-- Resilient AI pipeline handling both Gemini and OpenAI endpoints
-
-**[→ View on GitHub](https://github.com/satyapradip/Apna-Doctor)**
-
-</details>
-
----
-
-<details open>
-<summary><b>🎙️ Maya — AI Voice Assistant</b> — Modular Python AI system</summary>
-
-<br/>
-
-> `Python` · `Google Gemini API` · `REST APIs`
-
-**The challenge:** Build a voice assistant without coupling speech, AI, and service layers together.
-
-**What I built:**
-- Modular architecture with **loosely coupled layers**: speech processing, AI reasoning, and service integrations
-- **Dependency injection** pattern for extensibility and fault isolation
-- Structured logging and comprehensive error handling for production reliability
-
-**[→ View on GitHub](https://github.com/satyapradip/Mayavoiceassistant)**
-
-</details>
-
----
-
-<details open>
-<summary><b>💰 DealDrop — AI Price Tracker</b> — Automated deal discovery platform</summary>
-
-<br/>
-
-> `JavaScript` · `CSS` · `Web Scraping` · `Price Monitoring`
-
-**The challenge:** Help users stop overpaying by tracking price patterns automatically.
-
-**What I built:**
-- Automated scraping and tracking workflows for real-time price collection and comparison
-- Responsive UI visualizing product trends and price-drop alerts
-- Lightweight frontend architecture optimized for performance
-
-**[→ View on GitHub](https://github.com/satyapradip/AI-Price-Tracker)**
-
-</details>
+**Full-Stack Developer Intern · The Corporate Pot** — *Jun 2026 – Aug 2026 (Remote)*
+Built RESTful APIs secured with JWT/RBAC on the MERN + Next.js/TypeScript stack, following MVC and Agile practices; collaborated on sprint planning, code review, and production debugging.
 
 <br/>
 
 ---
 
-## 📊 GitHub Activity
+## Featured Projects
+
+| Project | Stack | |
+|---|---|---|
+| **Panchayat — Civic Tech Platform** | Next.js · TypeScript · MongoDB · Sarvam AI · Gemini | [Explore →](https://github.com/satyapradip/Panchayat) |
+| **Employee Management System** | React · Node.js · Express · MongoDB · JWT · RBAC | [Explore →](https://github.com/satyapradip/Employee-Management-System) |
+| **Apna Doctor — AI Health Assistant** | React · TypeScript · Supabase · Gemini · OpenAI | [Explore →](https://github.com/satyapradip/Apna-Doctor) |
+| **Insta-Zomato** | Next.js · React · TypeScript · CSS | [Explore →](https://github.com/satyapradip/Insta-Zomato) |
+| **Maya — AI Voice Assistant** | Python · Gemini API · REST APIs | [Explore →](https://github.com/satyapradip/Mayavoiceassistant) |
+| **DealDrop — AI Price Tracker** | JavaScript · CSS · Web Scraping | [Explore →](https://github.com/satyapradip/AI-Price-Tracker) |
+
+*Full write-ups, architecture notes, and code for each project live in their repos — dive in above.*
+
+<br/>
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
-<!-- Stats + Languages side by side -->
-<img height="170em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=satyapradip&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&include_all_commits=true&count_private=true" />
-<img height="170em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=satyapradip&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0&langs_count=6" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=satyapradip&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&include_all_commits=true&count_private=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyapradip&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0&langs_count=6" />
 
 <br/>
 
-<!-- Streak — fully bright numbers -->
 <img src="https://streak-stats.demolab.com/?user=satyapradip&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=f97316&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b" />
 
 <br/>
 
-<!-- Contribution graph — native GitHub activity heatmap, no setup needed -->
-<img src="https://ghchart.rshah.org/38bdf8/satyapradip" alt="Satyapradip's GitHub Contribution Chart" />
+<img src="https://ghchart.rshah.org/38bdf8/satyapradip" alt="Satyapradip's GitHub Contribution Chart" width="100%"/>
 
 </div>
 
@@ -205,12 +136,16 @@ OpenAI API     ██████████░░░  Proficient
 
 ---
 
-## 🏆 Recognition
+## Certifications & Recognition
 
 ```
-Smart India Hackathon 2025    →  National-level participant
-NEXATHON 1.0                  →  Finalist
-Academic Standing             →  SGPA 9.29 / 10
+Oracle Cloud Infrastructure (OCI) 2025 AI Foundations Associate
+Full Stack Web Development — Udemy (Hitesh Choudhury)
+Advanced Software Engineering Job Simulation
+
+Smart India Hackathon 2025     →  National-level Participant
+NEXATHON 1.0                   →  Finalist
+Academic Standing               →  SGPA 9.58 / 10
 ```
 
 <br/>
@@ -219,7 +154,7 @@ Academic Standing             →  SGPA 9.29 / 10
 
 <div align="center">
 
-**Currently open to internship opportunities in backend / full-stack engineering.**
+**Open to Software Engineering Internships in Backend / Full-Stack Development.**
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/satyapradip-das)
 [![Email](https://img.shields.io/badge/Send_an_Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyapradip7602@gmail.com)
@@ -228,6 +163,6 @@ Academic Standing             →  SGPA 9.29 / 10
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=satyapradip&color=38bdf8&style=flat-square&label=profile+views)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:111111,100:0a0a0a&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:111111,100:0a0a0a&height=90&section=footer" />
 
 </div>
