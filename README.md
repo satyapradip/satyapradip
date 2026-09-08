@@ -41,49 +41,31 @@ const satyapradip: Engineer = {
 
 ## Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="50%">
+<div align="center">
 
 **Languages & Backend**
-```
-JavaScript (ES6+) · TypeScript · Python
-Node.js · Express.js · RESTful APIs
-JWT Authentication · RBAC · API Security
-```
-
-**Databases**
-```
-MongoDB · PostgreSQL
-```
-
-</td>
-<td valign="top" width="50%">
+<br/>
+<img src="https://skillicons.dev/icons?i=js,ts,py,nodejs,express" alt="Languages & Backend" />
 
 **Frontend**
-```
-React.js · Next.js · Redux · Tailwind CSS
-```
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" alt="Frontend" />
+
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase" alt="Databases" />
 
 **AI / ML Integration**
-```
-Gemini API · OpenAI API · Sarvam AI
-Prompt Engineering · AI Pipeline Design
-```
-
-</td>
-</tr>
-</table>
+<br/>
+<img src="https://skillicons.dev/icons?i=gemini,openai" alt="AI Integrations" />
 
 **Daily Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,vite" alt="Daily Tools" />
 
-![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-ff6c37?style=flat-square&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078d4?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-d97706?style=flat-square&logo=anthropic&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646cff?style=flat-square&logo=vite&logoColor=white)
+</div>
+
+*Also fluent in: JWT Authentication · RBAC · REST API Design · MVC Architecture · Prompt Engineering · AI Pipeline Design*
 
 <br/>
 
@@ -119,8 +101,8 @@ Built RESTful APIs secured with JWT/RBAC on the MERN + Next.js/TypeScript stack,
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=satyapradip&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&include_all_commits=true&count_private=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyapradip&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0&langs_count=6" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=satyapradip&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&include_all_commits=true&cache_seconds=86400" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyapradip&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0&langs_count=6&cache_seconds=86400" />
 
 <br/>
 
@@ -129,6 +111,11 @@ Built RESTful APIs secured with JWT/RBAC on the MERN + Next.js/TypeScript stack,
 <br/>
 
 <img src="https://ghchart.rshah.org/38bdf8/satyapradip" alt="Satyapradip's GitHub Contribution Chart" width="100%"/>
+
+<br/>
+
+<!-- Animated contribution snake — auto-generated daily by the GitHub Action below. Renders once workflow runs. -->
+<img src="https://raw.githubusercontent.com/satyapradip/satyapradip/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
 
 </div>
 
